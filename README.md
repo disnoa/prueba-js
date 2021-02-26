@@ -1,1 +1,3 @@
-Ejercicio javascript
+## Ejercicio javascript
+
+Ejecutar: `node index.js`
